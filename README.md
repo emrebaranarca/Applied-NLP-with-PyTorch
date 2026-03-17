@@ -14,14 +14,18 @@ The main workflow is implemented in `Crisis-Detection-NLP-Pipeline.ipynb`.
 
 The notebook uses common data science and NLP libraries, including:
 
-- Python 3.x
+- Python 3.8+
 - pandas
 - numpy
 - matplotlib
 - scikit-learn
 - PyTorch
 
-Install the required packages in your environment before running the notebook.
+Install the required packages in your environment before running the notebook:
+
+```bash
+pip install pandas numpy matplotlib scikit-learn torch
+```
 
 ## Usage
 
